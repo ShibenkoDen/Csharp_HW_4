@@ -28,8 +28,8 @@ int GetNumberPow (int number1, int number2)
         int res = 0;
         return (res);
     }
-    
 }
+
 int numberA = GetUserNumber ("Введите число А:");
 int numberB = GetUserNumber ("Введите положительное число В:");
 int result = GetNumberPow (numberA, numberB);
